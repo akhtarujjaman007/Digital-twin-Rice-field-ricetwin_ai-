@@ -71,7 +71,7 @@ This project was developed as an academic research project for intelligent preci
 
 ---
 
-# ⚠️ Hardware Notice
+# ⚠️⚠️ Hardware Notice ⚠️⚠️
 
 **The complete hardware architecture has already been designed and implemented.**
 
