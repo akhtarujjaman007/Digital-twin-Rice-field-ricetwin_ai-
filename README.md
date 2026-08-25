@@ -73,7 +73,7 @@ This project was developed as an academic research project for intelligent preci
 
 # ⚠️⚠️ Hardware Notice ⚠️⚠️
 
-**The complete hardware architecture has already been designed and implemented.**
+**The complete hardware architecture has already been designed and implemented. But for testing backend contain simulating data.**
 
 However, the version available in this GitHub repository uses **simulation/demo data** for testing and demonstration purposes because continuous field testing hardware is not included in the repository.
 
